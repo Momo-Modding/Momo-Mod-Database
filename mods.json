@@ -1,0 +1,32 @@
+{
+  "last_updated": "13-04-2026",
+  "mods": [
+    {
+      "id": "timer_mod",
+      "name": "Timer Mod",
+      "author": "ABU008",
+      "version": "2.0.0",
+      "description": "Adds a timer and a shortcut to restart your run.",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/TimerMod/TimerMod.zip",
+      "dependencies": []
+    },
+    {
+      "id": "kaizo_momo",
+      "name": "Kaizo Momo",
+      "author": "Aloof",
+      "version": "2.0.0",
+      "description": "Momo can see you at all times as long as you are in the house.",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/Kaizo/KaizoNeem.zip",
+      "dependencies": []
+    },
+    {
+      "id": "gasoline_fix",
+      "name": "Gasoline Fix",
+      "author": "ABU008",
+      "version": "1.0.0",
+      "description": "Fixes the gasoline glitch",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/GasolinaPatch/GasolineFix.zip",
+      "dependencies": []
+    }
+  ]
+}
