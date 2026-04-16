@@ -1,11 +1,11 @@
 {
-  "last_updated": "13-04-2026",
+  "last_updated": "16-04-2026",
   "mods": [
     {
       "id": "timer_mod",
       "name": "Timer Mod",
       "author": "ABU008",
-      "version": "2.0.0",
+      "version": "1.1.0",
       "description": "Adds a timer and a shortcut to restart your run.",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/TimerMod/TimerMod.zip",
       "dependencies": []
