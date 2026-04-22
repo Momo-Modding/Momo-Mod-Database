@@ -15,7 +15,7 @@
       "name": "LiveSplit Mod",
       "author": "ABU008",
       "version": "1.0.0",
-      "description": "Adds splits to the momo timer (alternative to the timer mod)",
+      "description": "Adds splits to the momo timer and a shortcut to restart your run (alternative to the timer mod)",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/LiveSplit/SplitsMod.zip",
       "dependencies": []
     },
