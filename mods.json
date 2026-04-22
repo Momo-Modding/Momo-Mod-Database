@@ -27,6 +27,15 @@
       "description": "Fixes the gasoline glitch",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/GasolinaPatch/GasolineFix.zip",
       "dependencies": []
+    },
+    {
+      "id": "livesplit_mod",
+      "name": "LiveSplit Mod",
+      "author": "ABU008",
+      "version": "1.0.0",
+      "description": "Adds splits to the momo timer (alternative to the timer mod)",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/LiveSplit/SplitsMod.zip",
+      "dependencies": []
     }
   ]
 }
