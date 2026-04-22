@@ -1,5 +1,5 @@
 {
-  "last_updated": "16-04-2026",
+  "last_updated": "22-04-2026",
   "mods": [
     {
       "id": "timer_mod",
@@ -8,6 +8,15 @@
       "version": "1.1.0",
       "description": "Adds a timer and a shortcut to restart your run.",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/TimerMod/TimerMod.zip",
+      "dependencies": []
+    },
+    {
+      "id": "livesplit_mod",
+      "name": "LiveSplit Mod",
+      "author": "ABU008",
+      "version": "1.0.0",
+      "description": "Adds splits to the momo timer (alternative to the timer mod)",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/LiveSplit/SplitsMod.zip",
       "dependencies": []
     },
     {
@@ -26,15 +35,6 @@
       "version": "1.0.0",
       "description": "Fixes the gasoline glitch",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/GasolinaPatch/GasolineFix.zip",
-      "dependencies": []
-    },
-    {
-      "id": "livesplit_mod",
-      "name": "LiveSplit Mod",
-      "author": "ABU008",
-      "version": "1.0.0",
-      "description": "Adds splits to the momo timer (alternative to the timer mod)",
-      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/LiveSplit/SplitsMod.zip",
       "dependencies": []
     }
   ]
