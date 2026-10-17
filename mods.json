@@ -36,6 +36,15 @@
       "description": "Fixes the gasoline glitch",
       "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/GasolinaPatch/GasolineFix.zip",
       "dependencies": []
+    },
+    {
+      "id": "tas_mod",
+      "name": "TAS Mod",
+      "author": "ABU008",
+      "version": "1.0.0",
+      "description": "Slows down the game and gives you perfect window luck",
+      "download_url": "https://github.com/Momo-Modding/Momo-Mod-Database/releases/download/TASMod/TAS.Mod.zip",
+      "dependencies": []
     }
   ]
 }
